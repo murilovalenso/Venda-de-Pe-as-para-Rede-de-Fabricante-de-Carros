@@ -21,3 +21,19 @@ Esta apresentação resume os aspectos essenciais do projeto, destacando como el
 # 4. Considerações Finais 
 
 Esta apresentação resume os aspectos essenciais do projeto, destacando como ele pode beneficiar a empresa ao fornecer análises detalhadas e preditivas para impulsionar as operações comerciais de vendas de peças.
+
+ Conclusões e Recomendações Finais
+
+Com base nas análises realizadas e na previsão de vendas:
+
+. O Produto A continua sendo o líder em vendas e receita.
+
+. As vendas mensais têm variações significativas, com picos em certos meses que podem ser explorados para estratégias de marketing.
+
+. Essas variações ou flutuações nas vendas de peças ao longo do ano, com possíveis aumentos durante certos meses e quedas em outros, cria uma linha de previsão que nos ajuda a antecipar a demanda futura com base nas tendências observadas.
+
+. A previsão de vendas usando regressão linear mesmo com quedas mostrou uma tendência de crescimento, o que pode ajudar a equipe comercial na previsão de estoques e planejamento de vendas futuras.
+
+
+
+Este projeto ilustra como o uso de modelos de regressão linear juntamente com ferramentas de previsão podem ajudar empresas a entender melhor as flutuações nas vendas ao longo do ano e tomar decisões informadas sobre gestão de estoque, planejamento de produção e estratégias de vendas para otimizar o desempenho da rede de distribuição, ou seja, explorando ações logísticas juntamente com estratégias de inteligência de mercado e performance podem converter essas quedas em crescimento ao longo do ano.
