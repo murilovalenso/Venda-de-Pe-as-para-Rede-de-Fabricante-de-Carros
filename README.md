@@ -1,6 +1,6 @@
 
 
-## Desenvolver e implementar estratégias analíticas para impulsionar as operações comerciais de vendas de peças
+## Desenvolver e implementar estratégias analíticas para impulsionar as operações comerciais de vendas de peças de uma Grande Rede de Fabricante de Carros
 
 # Análise de Vendas de Peças: Projeto em Python
 
