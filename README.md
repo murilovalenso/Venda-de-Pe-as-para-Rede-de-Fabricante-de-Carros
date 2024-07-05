@@ -13,7 +13,7 @@ Modelagem Preditiva: Implementamos um modelo simples de Regressão Linear para p
 Resultados e Tendências: Observamos uma tendência de crescimento nas vendas, auxiliando na previsão de estoques e planejamento estratégico.
 
 # 3. Implementação Técnica: 
-O projeto utilizará TensorFlow como plataforma principal para construir e treinar redes neurais profundas (deep learning). Serão exploradas arquiteturas como redes neurais convolucionais (CNNs) ou redes neurais recorrentes (RNNs), dependendo da natureza dos dados e do contexto da previsão de séries temporais de preços das peças.
+O projeto utilizará TensorFlow como plataforma principal para construir e treinar modelos usando Machine Learning que serão explorados, de acordo com a natureza dos dados e do contexto da previsão de séries temporais de preços das peças.
 
 # 4. Suporte à Decisão Comercial
 Apoio Estratégico: Este projeto fornece insights acionáveis para a equipe comercial, facilitando decisões informadas sobre marketing, estoque e estratégias de vendas.
